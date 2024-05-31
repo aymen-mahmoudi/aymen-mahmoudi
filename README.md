@@ -8,6 +8,8 @@
 - 🌱  I’m currently learning machine learning and deepening my skills in data science
 
 - 🤝 I’m looking to collaborate on any project combining physics and data science
+  
+- 🥅 2024 Goals: Contribute more to Open Source projects & Master more ML tools
 
 - 💬 Ask me about: The photoemission technique, spectroscopy techniques, Python, PyQT, git, HTML/CSS, IgorPro, and Matlab
 
