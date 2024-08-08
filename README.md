@@ -23,7 +23,7 @@
 
 I am also interested (or at a basic level) in
 
-![My Skills](https://skillicons.dev/icons?i=matlab,c,cpp,arduino)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,matlab,arduino)
 
 Finally, I acknowledge my beloved tools
 
