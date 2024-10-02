@@ -13,7 +13,7 @@
 
 - 💬 Ask me about: The photoemission technique, spectroscopy techniques, Python, PyQT, git, HTML/CSS, IgorPro, and Matlab
 
-- 📫 mahmoudi7050@gmail.com 
+- 📫 aymen.mahmoudi@cnrs.fr
 
 <h3 align="left">Languages and Tools:</h3>  
 
